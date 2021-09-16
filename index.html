@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="index.js"></script>
+    <title>Box Shadow Control Tool</title>
+    </head>
+    <body>
+        
+        <div class="boxshadowcontroltool">
+            <h2>Box Shadow Control Tool</h2>
+            <div class="box"></div>
+            <div >
+                box-shadow: 
+                <input type="text" class="in_value" value="5"/>px 
+                <input type="text" class="in_value" value="5"/>px 
+                <input type="text" class="in_value" value="5"/>px  
+                <input type="text" class="in_value" value="0"/>px  
+                #<input type="text" class="in_value" value="555"/>
+            </div>
+            
+            <div class="shadow_prop">
+                <label>x </label>
+                <input type="range" class="slider" min="-50" max="50" value="5" />
+            </div>
+            <div class="shadow_prop">
+                <label>y </label>
+                <input type="range" class="slider" min="-50" max="50" value="5" />
+            </div>
+            <div class="shadow_prop">
+                <label>blur </label>
+                <input type="range" class="slider" min="0" max="50" value="5" />
+            </div>            
+            <div class="shadow_prop">
+                <label>spread </label>
+                <input type="range" class="slider" min="-50" max="50" value="0" />
+            </div>
+            
+        </div> 
+        
+</body>
+</html>
