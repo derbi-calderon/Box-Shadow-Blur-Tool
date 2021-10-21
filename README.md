@@ -1,6 +1,6 @@
 # Box-Shadow-Blur-Tool
 
-Click here [Box-Shadow-Blur-Tool](https://lovelight-247.github.io/Box-Shadow-Blur-Tool/) To see it in action!
+Click here [Box-Shadow-Blur-Tool](https://derbi-calderon.github.io/Box-Shadow-Blur-Tool/) To see it in action!
 <br>
 ## Screenshot
 ![img](/screenshot.PNG)
